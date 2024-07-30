@@ -84,7 +84,7 @@
 - [Redis](databases/redis.sh)
   </details>
 
-### [Odoo](./odoo/odoo.png) Odoo
+### ![Odoo](./odoo/odoo.png) Odoo
 
 <details>
   <summary>View cheatsheets</summary>
