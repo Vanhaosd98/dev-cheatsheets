@@ -7,7 +7,6 @@ This repository exists to document my journey and some struggle i face while wor
 ## Table of Contents
 - [Odoo Cheatsheet](#odoo-cheatsheet)
   - [Table of Contents](#table-of-contents)
-  - [Contributing](#contributing)
   - [Useful links and articles](#useful-links-and-articles)
   - [Some PDF reporting thingies](#some-pdf-reporting-thingies)
     - [Create custom button to download report](#create-custom-button-to-download-report)
