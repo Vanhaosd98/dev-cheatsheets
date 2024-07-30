@@ -84,6 +84,14 @@
 - [Redis](databases/redis.sh)
   </details>
 
+### Odoo
+
+<details>
+  <summary>View cheatsheets</summary>
+
+  - [Odoo](odoo/odoo.md)
+</details>
+
 ### 🔧 Tools
 
 <details>
