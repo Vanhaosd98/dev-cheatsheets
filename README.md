@@ -1,6 +1,11 @@
 
 > 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
+<details>
+<summary>REST API</summary>
+![rest-api](./public/tips/rest-api-cheatsheet.gif)
+</details>
+
 ## 📚 Table of Contents
 
 ### 📃 Languages
@@ -111,6 +116,8 @@
 
 #### Infrastructure
 - [AWS CLI](tools/aws.sh)
+![aws](./public/aws/aws-cheatsheet.gif)
+![azure](./public/aws/azure-cheatsheet.gif)
 - [Docker](tools/docker.sh)
 - [Heroku CLI](tools/heroku.sh)
 - [Kubernetes](tools/kubernetes.md)
@@ -121,4 +128,16 @@
 - [Ubuntu](tools/ubuntu.sh)
 - [Firebase CLI](tools/firebase_cli.md)
 - [Terraform CLI](tools/terraform_cli.md)
+- [Content Delivery Network (CDN)](CDN/cdn.md)
   </details>
+
+### 🎓 Roadmap
+
+Developer Roadmaps
+[roadmap.sh](https://roadmap.sh/). is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
+
+<details>
+<summary>A Roadmap for Full-Stack Development</summary>
+
+- [Full-Stack Development roadmap](roadmap/fullstack/fullstack.md)
+</details>

@@ -89,3 +89,23 @@ docker-machine stop $(docker-machine ls -q)                               # Stop
 docker-machine rm $(docker-machine ls -q)                                 # Delete all VMs and their disk images
 docker-machine scp docker-compose.yml myvm1:~                             # Copy file to node's home dir
 docker-machine ssh myvm1 "docker stack deploy -c <file> <app>"            # Deploy an app
+
+
+##############################################################################
+# DOCKER commands
+##############################################################################
+# Run Docker commands without sudo
+# 1. Add the docker group if it doesn't already exist
+sudo groupadd docker
+# 2. Add the connected user $USER to the docker group
+##Optionally change the username to match your preferred user.
+
+sudo gpasswd -a $USER docker
+##IMPORTANT: Log out and log back in so that your group membership is re-evaluated.
+
+# 3. Restart the docker daemon
+sudo service docker restart
+
+# 4. Change the context from Docker Desktop to Engine
+##If you installed Docker Desktop first, then removed it and installed the Docker Engine, you may need to switch the Docker context with this command:
+docker context use default
