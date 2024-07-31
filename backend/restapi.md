@@ -1,0 +1,1 @@
+![rest-api](../public/tips/rest-api-cheatsheet.gif)

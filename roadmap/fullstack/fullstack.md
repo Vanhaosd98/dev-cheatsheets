@@ -1,0 +1,1 @@
+![cdn](../../public/roadmap/fullstack.webp)
