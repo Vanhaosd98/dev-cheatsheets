@@ -84,10 +84,13 @@
 #### SQL
 
 - [MySQL](databases/mysql.sh)
+- [Postgres SQL](databases/postgres.md)
 
 #### NoSQL
 
 - [Redis](databases/redis.sh)
+- [MongoDB](databases/mongodb.sh)
+
   </details>
 
 ### ![Odoo](./odoo/odoo.png) Odoo
