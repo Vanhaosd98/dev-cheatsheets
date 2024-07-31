@@ -3,7 +3,8 @@
 
 <details>
 <summary>REST API</summary>
-![rest-api](./public/tips/rest-api-cheatsheet.gif)
+
+- [REST API](backend/restapi.md)
 </details>
 
 ## 📚 Table of Contents
@@ -116,8 +117,8 @@
 
 #### Infrastructure
 - [AWS CLI](tools/aws.sh)
-![aws](./public/aws/aws-cheatsheet.gif)
-![azure](./public/aws/azure-cheatsheet.gif)
+- [AWS Cheatsheet](tools/aws.md)
+- [Azure Cheatsheet](tools/azure.md)
 - [Docker](tools/docker.sh)
 - [Heroku CLI](tools/heroku.sh)
 - [Kubernetes](tools/kubernetes.md)
