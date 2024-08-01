@@ -117,6 +117,7 @@
 - [VIM](tools/vim.txt)
 - [Visual Studio Code](tools/vscode.md)
 - [Xcode](tools/xcode.txt)
+- [Jenkin](tools/jenkin.md)
 
 #### Infrastructure
 - [AWS CLI](tools/aws.sh)
